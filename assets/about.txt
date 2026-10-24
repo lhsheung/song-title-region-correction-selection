@@ -1,0 +1,4 @@
+Song Title Region Correction Selection 1.0.0
+基于 AM++ 插件 SDK v1。
+适配参考：AM-plus-plus commit 544bae60357bddf9a412871b900dda5938aa1ac6。
+仅修改 AM++ 的目录元数据查询地区，不更改 Apple Music 账号地区。
